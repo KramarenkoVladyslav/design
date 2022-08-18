@@ -1,6 +1,6 @@
 # Design site
 
-Written on:
-HTML
-CSS
-JavaScript
+Written on: 
++ HTML
++ CSS
++ JavaScript
