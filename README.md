@@ -1,1 +1,7 @@
-# DESIGN SITE
+# Design site
+
+Written on:
+
+HTML
+CSS
+JavaScript
