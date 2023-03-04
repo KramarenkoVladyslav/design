@@ -6,4 +6,4 @@ Written on:
 + JavaScript
 
 Library
-+jQuery
++ jQuery
