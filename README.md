@@ -5,5 +5,5 @@ Written on:
 + CSS
 + JavaScript
 
-Library
+Library:
 + jQuery
